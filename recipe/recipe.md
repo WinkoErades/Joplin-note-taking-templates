@@ -8,7 +8,7 @@
 ## Ingredients
 | | Serving 1 | Serving 2 | 
 | --- | --- | --- | 
-| **Ingredients** | **Qty/Wt/Vol** | **Qty/Wt/Vol 2** |
+| **Ingredients** | **Qty/Wt/Vol** | **Qty/Wt/Vol** |
 ||||
 
 
