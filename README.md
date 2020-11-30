@@ -12,6 +12,10 @@ Created notes can be synchronised with multi platform clients across various clo
 - Place the downloaded Markdown template file into the templates folder.
 - After restarting Joplin you can use the Templates from the menu (File->Templates).
 
+## Downloading Joplin note taking templates
+You can download the templates here:
+https://github.com/WinkoErades/Joplin-note-taking-templates/releases/
+
 Have fun!
 
 Winko
