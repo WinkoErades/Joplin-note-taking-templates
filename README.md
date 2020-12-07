@@ -10,7 +10,8 @@ Created notes can be synchronised with multi platform clients across various clo
 - Download the template you would like to use.
 - Create a templates folder in Joplin's config folder (File->Templates->Open template directory). 
 - Place the downloaded Markdown template file into the templates folder.
-- After restarting Joplin you can use the Templates from the menu (File->Templates).
+- Refresh the templates within Joplin (File->Templates->Refresh templates).
+- Start using the Templates from the menu (File->Templates).
 
 ## Downloading Joplin note taking templates
 You can download the templates here:
