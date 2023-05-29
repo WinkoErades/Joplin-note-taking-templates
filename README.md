@@ -7,11 +7,7 @@ Joplin is a great, free and easy to use open source note taking and to-do applic
 Created notes can be synchronised with multi platform clients across various cloud services.
 
 ## How to use Joplin templates
-- Download the template you would like to use.
-- Create a templates folder in Joplin's config folder (File->Templates->Open template directory). 
-- Place the downloaded Markdown template file into the templates folder.
-- Refresh the templates within Joplin (File->Templates->Refresh templates).
-- Start using the Templates from the menu (File->Templates).
+- A lot has changed for the better, please read the Joplin documentation on how to use Joplin templates.
 
 ## Downloading Joplin note taking templates
 You can download the templates here:
